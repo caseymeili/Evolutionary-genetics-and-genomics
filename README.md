@@ -4,5 +4,5 @@ Code written for Evolutionary Genetics and Genomics (HGEN 6092) R sessions at th
 * Drift-selection simulations
 * Detecting natural selection I
 * Phylogenetics
-* * Utilizes PIP_primate.fa file
+ * Utilizes PIP_primate.fa file
 * Detecting natural selection II
