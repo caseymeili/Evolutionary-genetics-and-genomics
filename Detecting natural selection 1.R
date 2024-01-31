@@ -2,10 +2,8 @@
 # R Session 2 - Detecting Natural Selection I
 # Casey Meili
 
-# Some exercises were adapted from: https://fuzzyatelin.github.io/bioanth-stats/module-24/module-24.html
-
 # load packages
-library("rehh")
+library(rehh)
 
 # load dataset for chromosome 12 
 data(haplohh_cgu_bta12)
