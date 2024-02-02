@@ -5,4 +5,5 @@ Code written for Evolutionary Genetics and Genomics (HGEN 6092) R sessions at th
 * Detecting natural selection I
 * Phylogenetics
   * Requires PIP_primate.fa
+* Demographic inference
 * Detecting natural selection II
