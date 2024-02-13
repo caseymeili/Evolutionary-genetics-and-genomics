@@ -1,5 +1,5 @@
 # Evolutionary Genetics and Genomics (HGEN 6092)
-# R Session 4 - Population demography and structure (Part 1)
+# R Session 4 - Population demography and structure (site frequency spectra)
 # Casey Meili
 
 # set working directory
