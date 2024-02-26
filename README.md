@@ -8,4 +8,3 @@ Code written for Evolutionary Genetics and Genomics (HGEN 6092) R sessions at th
 * Population demography and structure
   * Site frequency spectra (R)
   * Demographic inference with fastsimcoal2 (command line)
-* Detecting natural selection II
